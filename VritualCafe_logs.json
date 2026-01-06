@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2025-11-28 12:13:34",
+    "totalClients": 1,
+    "clientsWithOrders": 0,
+    "waitingArea": {
+      "teas": 0,
+      "coffees": 0
+    },
+    "brewingArea": {
+      "teas": 0,
+      "coffees": 0
+    },
+    "trayArea": {
+      "teas": 0,
+      "coffees": 0
+    }
+  }
+]
